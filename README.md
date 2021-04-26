@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PrabhuGayatri
+- 👋 Hi, I’m Gayatri Prabhu.
 - 👀 I’m interested in data science, machine learning and other latest technologies.
 - 🌱 I’m currently learning web development.
 - 📫 How to reach me https://www.linkedin.com/in/prabhugayatri/
