@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gayatri Prabhu.
 - 👀 I’m interested in data science, machine learning, sustaianble energy, business and finance.
 - 🌱 Besides, I love to write, travel and play sports.
-- 📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/prabhugayatri/)
+- 📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/prabhugayatri/).
 
 <!---
 prabhugayatri/prabhugayatri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
