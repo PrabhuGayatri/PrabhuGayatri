@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gayatri Prabhu.
-- 👀 I’m interested in data science, sustaianble energy, business and finance.
+- 👀 I’m interested in different technologies, sustainable energy and business.
 - 🌱 Besides, I love to write, travel and play sports.
 - 📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/prabhugayatri/).
 
